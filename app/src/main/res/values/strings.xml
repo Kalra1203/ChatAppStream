@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chat App Stream</string>
+    <string name="api_key">85ur8dg7evue</string>
+    <string name="jwt_token">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoia2FyYW5LYWxyYSJ9.UUlqxqLdIkd6ULNDsc0ImJKv1eIHjkN9zTJPmWFlBLY</string>
+
+</resources>
